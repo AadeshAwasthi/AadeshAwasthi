@@ -127,7 +127,7 @@ Working on **ZenSpace**, a smart meeting space management platform that lets use
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AadeshAwasthi&show_icons=true&theme=default&hide_rank=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AadeshAwasthi&show_icons=true&theme=default&hide_rank=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadeshAwasthi&layout=compact&theme=default&langs_count=6" alt="Top Languages" />
 </p>
 
