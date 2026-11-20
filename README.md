@@ -37,11 +37,15 @@ I am a **QA Engineer** from Indore, Madhya Pradesh, India, with experience in ma
 
 ### Tools and Technologies
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![ZenTrack](https://img.shields.io/badge/ZenTrack-5D6D7E?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Salesforce (SFDC)](https://img.shields.io/badge/Salesforce%20%28SFDC%29-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![ZenTrack](https://img.shields.io/badge/ZenTrack-5D6D7E?style=for-the-badge) ![Salesforce (SFDC)](https://img.shields.io/badge/Salesforce%20%28SFDC%29-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ### Automation (Learning)
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-CD3C2C?style=for-the-badge) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Tools Used in My Portfolio Projects
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-CD3C2C?style=for-the-badge) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Database
 
@@ -123,8 +127,8 @@ Working on **ZenSpace**, a smart meeting space management platform that lets use
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AadeshAwasthi&show_icons=true&theme=default&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadeshAwasthi&layout=compact&theme=default" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AadeshAwasthi&show_icons=true&theme=default&hide_rank=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadeshAwasthi&layout=compact&theme=default&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
